@@ -19,7 +19,6 @@ Garry's Mod Dedicated Server (srcds)
 Настройка / Setup
 Клонируйте репозиторий
 
-sh
 git clone https://github.com/StickNazar/HvH-Sborka
 cd gmod-hvh-server
 
