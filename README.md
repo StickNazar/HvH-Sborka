@@ -35,4 +35,4 @@ Discord: nazar_murphy
 GNU 3.0
 
 
-Copyright (c) 2023 Stick
+Copyright (c) 2025 Stick
