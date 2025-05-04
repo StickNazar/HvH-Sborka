@@ -16,13 +16,6 @@ RUS	ENG
 Garry's Mod Dedicated Server (srcds)
 
 
-Настройка / Setup
-Клонируйте репозиторий
-
-git clone https://github.com/StickNazar/HvH-Sborka
-cd gmod-hvh-server
-
-
 Кастомные HUD-элементы
 
 Discord-бот для управления бан-листом
