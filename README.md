@@ -29,3 +29,9 @@ GNU 3.0
 
 
 Copyright (c) 2025 Stick
+
+
+
+Скачать/Download
+
+https://drive.google.com/file/d/1uOcHJX1CaQ1WJM8H4BvN-rzsMH05KEJ5/view?usp=sharing
