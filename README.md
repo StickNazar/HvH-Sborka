@@ -18,8 +18,6 @@ Garry's Mod Dedicated Server (srcds)
 
 Кастомные HUD-элементы
 
-Discord-бот для управления бан-листом
-
 📌 Контакты / Contacts
 Discord: nazar_murphy
 
